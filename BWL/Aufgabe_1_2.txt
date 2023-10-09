@@ -1,0 +1,10 @@
+Aufgabe 1
+a)Output/Input = 1000Schrauben/10Kg = 100Schrauben/Kg
+  Ertrag/Aufwand = 1000Schrauben*0,02€/10Kg*2€/kg = 1
+b)1KG mehr Draht, 100 mehr Schrauben
+c)Schlechtere Qualität, Höhere Preise für die Schrauben, Billigeren Draht
+
+Aufgabe 2
+ROS = 4.28
+Eigenkapital = 18,75
+Gesamtkapital = 15
