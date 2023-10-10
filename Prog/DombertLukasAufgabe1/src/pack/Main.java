@@ -5,7 +5,7 @@ public class Main {
         HighlyComposite.checkHCN840();
         HighlyComposite.checkHCN830();
         System.out.println("-".repeat(50));
-        HCNList.printHCN(1);
+        CheckHCN.getHCNList(13);
         System.out.println("-".repeat(50));
         AnalyzeFactor.analyzeFactors(840);
     }
