@@ -1,4 +1,4 @@
-### **Hochschule Mainz**
+# Hochschule Mainz
 ---
 
 ### Alt Klausuren
