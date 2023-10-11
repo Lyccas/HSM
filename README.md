@@ -1,8 +1,6 @@
 # **Hochschule Mainz**
----
 
 ## **Ablage von Datein der Hochschule Mainz**
----
 
 ### **Alt Klausuren**
 - Ablage von Alt Klausuren
