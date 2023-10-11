@@ -1,31 +1,30 @@
-# **Hochschule Mainz**
+### **Hochschule Mainz**
+---
 
-## **Ablage von Datein der Hochschule Mainz**
-
-### **Alt Klausuren**
+### Alt Klausuren
 - Ablage von Alt Klausuren
 ---
 
-### **Prog I**
+### Prog I
 - SourceCode zu den Übungsaufgaben aus dem Screen-Cast
 - Abgabe-Aufgaben
 ---
 
-### **BWL**
+### BWL
 - Ablage von Unterichtsunterlagen
 - Erledigte Übungsaufgaben
 ---
 
-### **WI**
+### WI
 - Ablage von Unterichtsunterlagen
 ---
 
-### **Mathematik**
+### Mathematik
 - Ablage von Unterichtsunterlagen
 - Erledigte Übungsaufgaben
 ---
 
-### **MSP**
+### MSP
 - Erledigte Übungsaufgaben
 - Word-Vorlage
 - Mind-Map
