@@ -1,5 +1,11 @@
 package pack;
 
+/**
+ * Lukas Dombert
+ * 09.10.2023
+ * Aufruf und Ausführung der Funktionen
+ */
+
 public class Main {
     public static void main(String[] args) {
         HighlyComposite.checkHCN840();
