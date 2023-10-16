@@ -7,11 +7,7 @@ package pack;
  */
 
 public class HighlyComposite {
-    public static void checkHCN840() {
-        System.out.println("Is the number 840 HCN? " + CheckHCN.isHCN(840));
-    }
-
-    public static void checkHCN830() {
-        System.out.println("Is the number 830 HCN? " + CheckHCN.isHCN(830));
+    public static String isHCN(int n) {
+        return "Is the number " + n + " HCN? " + CheckHCN.isHCN(n);
     }
 }

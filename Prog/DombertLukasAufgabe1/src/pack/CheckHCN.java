@@ -50,27 +50,11 @@ public class CheckHCN {
                 // Der return Wert wird auf false gesetzt, da die Zahl gleich viele oder weniger Teiler hat
             }
         }
+
         return true;
         /*
          * Sollte die Zahl mehr Teiler haben oder kleiner und gleich viele Teiler haben als die Ausgangszahl,
          * wird der return Wert auf true gesetzt
          */
-    }
-
-    public static void getHCNList(int n) {
-        int lastHCN = 0;
-        for (int i = 1; i <= n; i++) {
-            int k = lastHCN;
-            while (true) {
-                if (isHCN(k)) {
-                    if (k > lastHCN) {
-                        System.out.println("HighlyComposite: " + k + " with number of factors: " + Divisors(k));
-                        lastHCN = k;
-                        break;
-                    }
-                }
-                k++;
-            }
-        }
     }
 }

@@ -7,7 +7,9 @@ public class AnalyzeFactor {
      * Danach wird der Faktor so lange vergroessert bis die Zahl wieder durch ihn teilbar ist.
      * Der Vorgang wiederholt sich so oft, bis die Zahl 1 ist
      */
-    public static void analyzeFactors(int n) {
+    public static String analyzeFactors(int n) {
+        StringBuilder res = new StringBuilder();
+
         int factor = 2;
         // Startfaktor festlegen
 
@@ -22,11 +24,17 @@ public class AnalyzeFactor {
                  * Hier wird der alte Wert von n mit dem neuen Wert von n ueberschrieben,
                  * da hier die Zahl n durch den Faktor geteilt wird
                  */
-                System.out.println("Factor: " + factor + ", current value after div: " + n);
+                if (n == 1) {
+                    res.append("Factor: ").append(factor).append(", current value after div: ").append(n);
+                } else {
+                    res.append("Factor: ").append(factor).append(", current value after div: ").append(n).append("\n");
+                }
                 // Hier wird die Ausgabe erstellt
             }
             factor++;
             // Faktor wird hochgezaehlt
         }
+
+        return res.toString();
     }
 }
