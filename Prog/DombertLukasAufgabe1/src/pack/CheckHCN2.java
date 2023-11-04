@@ -1,6 +1,6 @@
 package pack;
 
-public class ChechHCN2 {
+public class CheckHCN2 {
     public static int getFactors(int n) {
         if (n == 1) {
             return 1;
